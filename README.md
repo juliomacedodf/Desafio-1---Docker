@@ -4,6 +4,10 @@
 
 
  comando de criação de imagem: docker build -t conversao-distancia 
+ 
+ 
+ 
+ 
  comando de criacao do container docker baseada na imagem docker run -d -p 5000:5000 --name conversao-app conversao-distancia
 
 
